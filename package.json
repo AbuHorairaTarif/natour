@@ -1,0 +1,22 @@
+{
+  "name": "tour-management",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DTour Based Website\"",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbuHorairaTarif/natour.git"
+  },
+  "author": "\"\"\u001b[DAbu Horaira Tarif\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbuHorairaTarif/natour/issues"
+  },
+  "homepage": "https://github.com/AbuHorairaTarif/natour#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
